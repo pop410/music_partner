@@ -1,0 +1,10 @@
+﻿{
+  "id": "netease-music",
+  "name": "网易云音乐伴侣",
+  "description": "悬浮球、歌词同步、AI prompt 注入",
+  "author": "pop410",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pop410/netease-musicPartner",
+  "script": "script.js",
+  "assets": []
+}
